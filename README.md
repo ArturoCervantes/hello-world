@@ -1,2 +1,5 @@
 # hello-world
-This is a hello world repository
+
+Tomas the crane
+
+Tomas the crane was a typical crane. He wakes up every morning to go to work.
